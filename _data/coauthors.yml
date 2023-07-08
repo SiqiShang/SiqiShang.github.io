@@ -32,3 +32,15 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Shao":
+  - firstname: ["Zili"]
+    url: http://www.cse.cuhk.edu.hk/~shao/
+
+"Ciocarlie":
+  - firstname: ["Matei"]
+    url: https://www.engineering.columbia.edu/faculty/matei-ciocarlieh
+
+"Lau":
+  - firstname: ["Darwin"]
+    url: https://www4.mae.cuhk.edu.hk/peoples/lau-darwin-tat-ming/

@@ -1,27 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: siqishang_photo.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-This is a random text -- this should change frontend.
+I am an incoming PhD student in Mechanical Engineering at Chinese University of Hong Kong, co-advised by Professor [Darwin Lau](https://www4.mae.cuhk.edu.hk/peoples/lau-darwin-tat-ming/) and Professor [Etienne Burdet](https://www.imperial.ac.uk/people/e.burdet) from Imperial College London. My research focuses on robotics.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Earlier this year, I received a master's degree in computer science from Columbia University, where I worked in [Robotic Manipulation and Mobility (ROAM) Lab](http://roam.me.columbia.edu/) and advised by Professor [Matei Ciocarlie](https://www.engineering.columbia.edu/faculty/matei-ciocarlie). Before joining Columbia, I received a bachelor's degree in computer science at CUHK, where I worked with Professor [Zili Shao](http://www.cse.cuhk.edu.hk/~shao/) on computer systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+\
+Email: siqi dot shang at columbia dot edu
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
