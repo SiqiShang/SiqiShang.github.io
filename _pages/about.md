@@ -15,11 +15,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an incoming PhD student in Mechanical Engineering at Chinese University of Hong Kong, co-advised by Professor [Darwin Lau](https://www4.mae.cuhk.edu.hk/peoples/lau-darwin-tat-ming/) and Professor [Etienne Burdet](https://www.imperial.ac.uk/people/e.burdet) from Imperial College London. My research focuses on robotics.
+I am an incoming PhD student in Mechanical Engineering at the Chinese University of Hong Kong, co-advised by Professor [Darwin Lau](https://www4.mae.cuhk.edu.hk/peoples/lau-darwin-tat-ming/) and Professor [Etienne Burdet](https://www.imperial.ac.uk/people/e.burdet) from Imperial College London. My research focuses on robotics.
 
-Earlier this year, I received a master's degree in computer science from Columbia University, where I worked in [Robotic Manipulation and Mobility (ROAM) Lab](http://roam.me.columbia.edu/) and advised by Professor [Matei Ciocarlie](https://www.engineering.columbia.edu/faculty/matei-ciocarlie). Before joining Columbia, I received a bachelor's degree in computer science at CUHK, where I worked with Professor [Zili Shao](http://www.cse.cuhk.edu.hk/~shao/) on computer systems.
+Earlier this year, I received a Master's degree in computer science from Columbia University, where I worked in [Robotic Manipulation and Mobility (ROAM) Lab](http://roam.me.columbia.edu/), advised by Professor [Matei Ciocarlie](https://www.engineering.columbia.edu/faculty/matei-ciocarlie). Before joining Columbia, I received a Bachelor's degree in computer science at CUHK, where I worked with Professor [Zili Shao](http://www.cse.cuhk.edu.hk/~shao/) on computer systems.
 
-\
+  
 Email: siqi dot shang at columbia dot edu
 
 
