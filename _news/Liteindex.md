@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [mobile indexing system for json](https://ieeexplore.ieee.org/document/10102340) is accepted to ASPDAC 2021. 
+Our paper on [mobile indexing system for JSON](https://ieeexplore.ieee.org/document/10102340) is accepted to ASPDAC 2021. 
